@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-graph3 =  tf.Graph()
+graph3 = tf.Graph()
 
 with graph3.as_default():
 
