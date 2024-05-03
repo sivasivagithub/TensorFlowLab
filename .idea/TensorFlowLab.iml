@@ -7,5 +7,6 @@
     <orderEntry type="module" module-name="Kappiyan_Project" />
     <orderEntry type="module" module-name="TensorFlowLearn" />
     <orderEntry type="module" module-name="ByoP" />
+    <orderEntry type="module" module-name="pythonKuchiMani" />
   </component>
 </module>
