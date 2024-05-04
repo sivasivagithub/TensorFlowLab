@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../ByoP" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Kappiyan_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../TensorFlowLearn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../pythonKuchiMani" vcs="Git" />
   </component>
