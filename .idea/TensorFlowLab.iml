@@ -2,14 +2,6 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-<<<<<<< HEAD
-    <orderEntry type="module" module-name="Kappiyan_Project" />
-    <orderEntry type="module" module-name="TensorFlowLearn" />
-    <orderEntry type="module" module-name="ByoP" />
-    <orderEntry type="module" module-name="pythonKuchiMani" />
-=======
->>>>>>> origin/master
   </component>
 </module>
